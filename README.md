@@ -6,18 +6,18 @@ Bu proje, **QNB** finansal veri setleri (veya benzeri bankacılık verileri) kul
 Bu rapor ile bankanın finansal sağlığı, müşteri eğilimleri ve dönem bazlı büyüme performansları analiz edilmiştir.
 
 ### 📋 Temel Analizler
-* **Gelir ve Gider Analizi:** Dönemsel kar marjlarının takibi.
-* **Müşteri Segmentasyonu:** Portföy dağılımı ve risk analizi.
-* **Operasyonel Verimlilik:** Şube veya bölge bazlı performans karşılaştırmaları.
+* Gelir ve Gider Analizi:Dönemsel kar marjlarının takibi.
+* Müşteri Segmentasyonu: Portföy dağılımı ve risk analizi.
+* Operasyonel Verimlilik: Şube veya bölge bazlı performans karşılaştırmaları.
 
 ## 🛠️ Teknik Özellikler
 Raporun hazırlanış sürecinde aşağıdaki teknik yetkinlikler kullanılmıştır:
 
-* **Power Query:** Ham verilerin temizlenmesi, sütun bazlı dönüşümler ve veri tiplemesi.
-* **Veri Modelleme:** Tablolar arası ilişkilerin (Star Schema) kurulması.
-* **DAX (Data Analysis Expressions):** * Time Intelligence fonksiyonları (YTD, Prior Year karşılaştırmaları).
-  * Dinamik ölçüler (Measures) ve hesaplanmış sütunlar.
-* **Görselleştirme:** Kullanıcı dostu navigasyon menüleri, dilimleyiciler (Slicers) ve etkileşimli grafikler.
+* Power Query:** Ham verilerin temizlenmesi, sütun bazlı dönüşümler ve veri tiplemesi.
+* Veri Modelleme:** Tablolar arası ilişkilerin (Star Schema) kurulması.
+* DAX (Data Analysis Expressions): Time Intelligence fonksiyonları (YTD, Prior Year karşılaştırmaları).
+* Dinamik ölçüler (Measures) ve hesaplanmış sütunlar.
+* Görselleştirme:** Kullanıcı dostu navigasyon menüleri, dilimleyiciler (Slicers) ve etkileşimli grafikler.
 
 ## 📁 Dosya Yapısı
 * `Qnb_elcin.pbix`: Raporun tüm veri modelini ve görsellerini içeren ana Power BI dosyası.
@@ -31,4 +31,4 @@ Raporun hazırlanış sürecinde aşağıdaki teknik yetkinlikler kullanılmış
 
 Hazırlayan:[ELÇİN KARADENİZ]  
 Araç: Power BI Desktop  
-**Veri Kaynağı:** QNB Finansal Veri Seti
+Veri Kaynağı:QNB Finansal Veri Seti
