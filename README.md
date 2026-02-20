@@ -23,7 +23,7 @@ Raporun hazırlanış sürecinde aşağıdaki teknik yetkinlikler kullanılmış
 * `Qnb_elcin.pbix`: Raporun tüm veri modelini ve görsellerini içeren ana Power BI dosyası.
 
 ## 📸 Ekran Görüntüleri
-*(Raporundan aldığın ekran görüntülerini buraya ekleyerek projenin ilk bakışta anlaşılmasını sağlayabilirsin)*
+
 ![Dashboard Görünümü]()
 <img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/f2e74155-49b3-4513-acac-f134b9d284ab" />
 
